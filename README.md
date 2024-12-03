@@ -32,20 +32,25 @@ As luzes alternam suas cores usando transições suaves de background-color e bo
 
 **JavaScript:** Para implementar a funcionalidade de piscada nas luzes com intervalos controlados.
 
-Possíveis Extensões do Projeto
-Efeitos Sonoros:
+## Possíveis Melhorias
+
+**Efeitos Sonoros:**
 
 Adicionar sons de Natal ou músicas de fundo para complementar o clima festivo.
-Interatividade:
+
+**Interatividade:**
 
 Implementar um botão para ligar/desligar as luzes.
 Permitir ao usuário escolher as cores das luzes ou ajustar a velocidade da piscada.
-Efeitos de Neve:
+
+**Efeitos de Neve:**
 
 Criar animações de neve caindo usando CSS ou JavaScript.
-Versão Mobile:
+
+**Versão Mobile:**
 
 Garantir que o design seja responsivo para diferentes tamanhos de tela, como dispositivos móveis.
+
 Como Usar
 Abra o arquivo index.html em um navegador para visualizar a árvore.
 As luzes começarão a piscar automaticamente.
