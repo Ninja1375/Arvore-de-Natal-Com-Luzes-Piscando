@@ -2,17 +2,20 @@ Este projeto utiliza HTML, CSS e JavaScript para criar uma **Árvore de Natal** 
 
 O objetivo principal é combinar habilidades de posicionamento no CSS e manipulação de elementos com JavaScript para criar um efeito dinâmico e visualmente agradável.
 
-Funcionalidades do Projeto
-Árvore de Natal Responsiva:
+# Funcionalidades
+
+**Árvore de Natal Responsiva:**
 
 A estrutura da árvore é desenhada usando apenas CSS com propriedades como border para criar os triângulos (camadas).
 Possui uma estrela decorativa no topo, estilizada com clip-path.
-Luzes Piscantes:
+
+**Luzes Piscantes:**
 
 Cada camada da árvore possui três luzes, posicionadas uniformemente.
-As luzes piscam alternadamente com diferentes cores (vermelho, verde, azul, amarelo, laranja e rosa).
+As luzes piscam alternadamente com diferentes cores (vermelho, verde, azul, amarelo, laranja e branco).
 O efeito de piscada é controlado por intervalos independentes para cada camada, criando um padrão dinâmico.
-Estilo Festivo:
+
+**Estilo Festivo:**
 
 Fundo escuro para destacar a árvore e as luzes.
 Sombras e gradientes suaves para realçar os detalhes.
