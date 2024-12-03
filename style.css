@@ -1,0 +1,101 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: #0c1e3e;
+}
+
+.tree {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.star {
+  width: 50px;
+  height: 50px;
+  background: gold;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  margin-bottom: -10px;
+}
+
+.layer {
+  position: relative;
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 80px solid #2e8b57;
+  margin: -10px 0;
+}
+
+.layer-2 {
+  border-left-width: 120px;
+  border-right-width: 120px;
+  border-bottom-width: 100px;
+}
+
+.layer-3 {
+  border-left-width: 140px;
+  border-right-width: 140px;
+  border-bottom-width: 120px;
+}
+
+.trunk {
+  width: 40px;
+  height: 60px;
+  background: #8b4513;
+  border-radius: 5px;
+}
+
+.light {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #444;
+  box-shadow: 0 0 10px #000;
+  transition: background-color 0.5s, box-shadow 0.5s;
+}
+
+.layer-1 .light:nth-child(1) {
+  top: 40px;
+  left: -43px;
+}
+.layer-1 .light:nth-child(2) {
+  top: 40px;
+  left: -8px;
+}
+.layer-1 .light:nth-child(3) {
+  top: 40px;
+  left: 30px;
+}
+
+.layer-2 .light:nth-child(1) {
+  top: 60px;
+  left: -63px;
+}
+.layer-2 .light:nth-child(2) {
+  top: 60px;
+  left: -8px;
+}
+.layer-2 .light:nth-child(3) {
+  top: 60px;
+  left: 50px;
+}
+
+.layer-3 .light:nth-child(1) {
+  top: 80px;
+  left: -83px;
+}
+.layer-3 .light:nth-child(2) {
+  top: 80px;
+  left: -8px;
+}
+.layer-3 .light:nth-child(3) {
+  top: 80px;
+  left: 70px;
+}
