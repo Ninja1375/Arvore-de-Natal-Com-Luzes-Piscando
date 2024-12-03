@@ -1,3 +1,7 @@
+**Veja o projeto ao vivo:**
+
+🌲 **[Árvore de Natal com Luzes Piscando](https://ninja1375.github.io/Arvore-de-Natal-Com-Luzes-Piscando/)**
+
 Este projeto utiliza HTML, CSS e JavaScript para criar uma **Árvore de Natal** estilizada e interativa. A árvore é composta por três camadas triangulares com luzes coloridas que piscam alternadamente, criando um efeito visual alegre e festivo. O tronco e a estrela no topo complementam o design.
 
 O objetivo principal é combinar habilidades de posicionamento no CSS e manipulação de elementos com JavaScript para criar um efeito dinâmico e visualmente agradável.
