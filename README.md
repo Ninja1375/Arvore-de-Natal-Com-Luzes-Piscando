@@ -24,10 +24,14 @@ Sombras e gradientes suaves para realçar os detalhes.
 
 As luzes alternam suas cores usando transições suaves de background-color e box-shadow.
 
-Tecnologias Utilizadas
-HTML: Para estruturar os elementos da árvore, luzes, tronco e estrela.
-CSS: Para estilizar a árvore, posicionar as luzes e criar o design geral.
-JavaScript: Para implementar a funcionalidade de piscada nas luzes com intervalos controlados.
+## Tecnologias Utilizadas
+
+**HTML:** Para estruturar os elementos da árvore, luzes, tronco e estrela.
+
+**CSS:** Para estilizar a árvore, posicionar as luzes e criar o design geral.
+
+**JavaScript:** Para implementar a funcionalidade de piscada nas luzes com intervalos controlados.
+
 Possíveis Extensões do Projeto
 Efeitos Sonoros:
 
