@@ -51,8 +51,11 @@ Criar animações de neve caindo usando CSS ou JavaScript.
 
 Garantir que o design seja responsivo para diferentes tamanhos de tela, como dispositivos móveis.
 
-Como Usar
-Abra o arquivo index.html em um navegador para visualizar a árvore.
+## Como Usar
+
+Abra o arquivo `index.html` em um navegador para visualizar a árvore.
 As luzes começarão a piscar automaticamente.
+
 Modifique o JavaScript ou CSS para personalizar as cores, posições ou comportamento das luzes.
+
 Este projeto é ideal para quem deseja aprender ou praticar técnicas de animação e posicionamento em CSS, combinadas com manipulação de DOM usando JavaScript!
