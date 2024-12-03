@@ -28,11 +28,11 @@ As luzes alternam suas cores usando transições suaves de background-color e bo
 
 <a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 
-**HTML:** Para estruturar os elementos da árvore, luzes, tronco e estrela.
+>**HTML:** Para estruturar os elementos da árvore, luzes, tronco e estrela.
 
-**CSS:** Para estilizar a árvore, posicionar as luzes e criar o design geral.
+>**CSS:** Para estilizar a árvore, posicionar as luzes e criar o design geral.
 
-**JavaScript:** Para implementar a funcionalidade de piscada nas luzes com intervalos controlados.
+>**JavaScript:** Para implementar a funcionalidade de piscada nas luzes com intervalos controlados.
 
 ## Possíveis Melhorias
 
