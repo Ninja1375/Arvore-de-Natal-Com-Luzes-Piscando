@@ -19,9 +19,11 @@ O efeito de piscada é controlado por intervalos independentes para cada camada,
 
 Fundo escuro para destacar a árvore e as luzes.
 Sombras e gradientes suaves para realçar os detalhes.
-Animações Interativas:
+
+**Animações Interativas:**
 
 As luzes alternam suas cores usando transições suaves de background-color e box-shadow.
+
 Tecnologias Utilizadas
 HTML: Para estruturar os elementos da árvore, luzes, tronco e estrela.
 CSS: Para estilizar a árvore, posicionar as luzes e criar o design geral.
