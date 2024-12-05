@@ -1,4 +1,4 @@
-[![Vídeo no YouTube](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=mnuuXH0rq_E)
+[![Vídeo no YouTube](https://img.youtube.com/vi/mnuuXH0rq_E/maxresdefault.jpg)](https://www.youtube.com/watch?v=mnuuXH0rq_E)
 
 **Veja o projeto ao vivo:**
 
