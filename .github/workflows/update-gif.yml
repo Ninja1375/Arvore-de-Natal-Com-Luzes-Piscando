@@ -1,0 +1,32 @@
+name: Update Video Preview
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Atualiza a cada hora
+  workflow_dispatch: # Permite execução manual
+
+jobs:
+  update-gif:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Convert video to GIF
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y ffmpeg
+        ffmpeg -i video.mp4 -vf "fps=10,scale=320:-1:flags=lanczos" video.gif
+
+    - name: Add GIF to README
+      run: |
+        echo "![Demonstração](video.gif)" > README.md
+
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md video.gif
+        git commit -m "Atualizando GIF da demonstração"
+        git push
