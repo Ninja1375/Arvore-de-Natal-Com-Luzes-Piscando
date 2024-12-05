@@ -1,3 +1,6 @@
+![Demonstração](video.gif)
+
+
 **Veja o projeto ao vivo:**
 
 🌲 **[Árvore de Natal com Luzes Piscando](https://ninja1375.github.io/Arvore-de-Natal-Com-Luzes-Piscando/)**
