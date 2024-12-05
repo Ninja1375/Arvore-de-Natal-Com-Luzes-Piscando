@@ -6,7 +6,6 @@ Este projeto utiliza HTML, CSS e JavaScript para criar uma **Árvore de Natal** 
 
 O objetivo principal é combinar habilidades de posicionamento no CSS e manipulação de elementos com JavaScript para criar um efeito dinâmico e visualmente agradável.
 
-![Demonstração](video.gif)
 
 
 
